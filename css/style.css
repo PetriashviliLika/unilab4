@@ -1,0 +1,17 @@
+.georgian-absolute{
+	font-family: "BPG DedaEna Nonblock", sans-serif;
+	margin: 20px;
+
+}
+.georgian-relative{
+	font-family: 'BPG Irubaqidze';
+	margin: 20px;
+}
+.latin-absolute{
+	font-family: 'Oswald', sans-serif;
+	margin: 20px;
+}
+.latin-relative{
+	font-family: 'Viaoda Libre';
+	margin: 20px;
+}
